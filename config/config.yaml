@@ -149,8 +149,6 @@ platforms:
     name: "虎扑"
 
   # === 科技类平台 ===
-  - id: "linuxdo"
-    name: "Linux.Do"
   - id: "ithome"
     name: "IT之家"
   - id: "juejin"
